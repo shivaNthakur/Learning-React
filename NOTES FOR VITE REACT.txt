@@ -1,0 +1,7 @@
+could return only one element in jsx
+
+<div> <div />  <> < /> are same
+
+function name 1st letter should be capital
+
+in vite file should be name as jsx not js
